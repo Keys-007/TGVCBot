@@ -42,6 +42,6 @@ yarn start
 - `/stopvc`
 
 
-## MEME
+## MEME (Lags af)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
