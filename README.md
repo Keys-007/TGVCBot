@@ -1,6 +1,6 @@
 # TGVCBot (Beta)
 
-![LOGO](https://telegra.ph/file/dd7933d25477c161b7d52.png)
+![LOGO](https://telegra.ph/file/e9dd76aadf0b500e02738.jpg)
 
 ## Credits & Thanks to
 - [@AndrewLaneX](https://github.com/AndrewLaneX) for [tgcallsjs](https://github.com/tgcallsjs/tgcalls).
