@@ -1,6 +1,6 @@
 # TGVCBot (Beta)
 
-
+![LOGO](https://telegra.ph/file/dd7933d25477c161b7d52.png)
 
 ## Credits & Thanks to
 - [@AndrewLaneX](https://github.com/AndrewLaneX) for [tgcallsjs](https://github.com/tgcallsjs/tgcalls).
@@ -40,3 +40,8 @@ yarn start
 - `/resume`
 - `/skip`
 - `/stopvc`
+
+
+## MEME
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
